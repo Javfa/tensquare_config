@@ -5,7 +5,7 @@ spring:
     name: tensquare-base
   datasource:
     driver-class-name: com.mysql.jdbc.Driver
-    url: jdbc:mysql://192.168.128.130:10068/tensquare_base?characterEncoding=utf-8
+    url: jdbc:mysql://58.213.198.77:10068/tensquare_base?characterEncoding=utf-8
     username: root
     password: Ttxs0315!
   jpa:
